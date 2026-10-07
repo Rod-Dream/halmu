@@ -1,12 +1,3 @@
---[[
-627445/974331
-obfuscated — UI methods preserved
-]]
-local bit32=bit32 or bit
-
------------------------------------------------------------
--- client protection / detection soften
------------------------------------------------------------
 pcall(function()
     local Players = game:GetService("Players")
     local RS = game:GetService("ReplicatedStorage")
