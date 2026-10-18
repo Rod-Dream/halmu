@@ -215,9 +215,7 @@ local function runApplication()
     return control
 end
 
-print[[이 스크립트는 무료로 제공됩니다
-
-discord.gg/discord.gg/vKXWdGT8pc]]
+print[[dc discord.gg/rqFbUHEAnr]]
 
 function Backend.initialize(data)
     local root = data[1]
